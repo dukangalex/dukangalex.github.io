@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.angelabettbox",
+      "sha256_cert_fingerprints": [
+        "70:12:8C:AC:EE:64:C4:62:0A:84:0C:16:26:D8:06:35:11:49:E8:52:22:FD:3E:00:31:2E:07:71:E6:FD:3F:5E"
+      ]
+    }
+  }
+]
